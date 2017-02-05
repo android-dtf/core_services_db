@@ -1,0 +1,9 @@
+<Items>
+    <Item type="module"
+          name="sysservicedb"
+          version="1.0.0"
+          health="stable"
+          author="Jake Valletta (jakev)"
+          about="Create and manage system service database."
+          localName="sysservicedb" />
+</Items>
