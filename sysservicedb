@@ -46,7 +46,7 @@ class sysservicedb(Module):
     author = 'Jake Valletta (jakev)'
     health = 'stable'
     name = 'sysservicedb'
-    version = '1.0'
+    version = '1.0.0'
 
     def usage(self):
 
